@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/lijiang0327/gitTest#readme",
   "dependencies": {
-    "jquery": "^1.12.4"
+    "art-template": "^3.0.3",
+    "gulp": "^3.9.1",
+    "jquery": "^1.12.4",
+    "requirejs": "^2.2.0"
   }
 }
