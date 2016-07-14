@@ -1,0 +1,124 @@
+﻿@charset "utf-8";
+/* CSS Document */
+.color{color:#a3b5c6 !important;}
+.help-icon{ background:url(../img/changeimg/help.png) no-repeat;display:inline-block}
+.bnav{font-size: 14px;padding: 30px 0px;}
+.bnav a{color:#a3b5c6;}
+.bnav span{color:#475058;}
+.home-icon{width:13px;height:12px;background-position:0px 0px;}
+.help-title{border-bottom:1px solid #f0f4f7;}
+.help-title h3{padding:20px 0px 20px 20px;color:#333;font-size:18px;font-weight: normal;}
+.self-service{background:#fff;}
+.self-service-cont{padding:0 20px;}
+.self-service-cont dd{width:120px; text-align:center;padding:40px 36px 35px 35px;float:left}
+.self-service-cont dd a p{font-size:16px;line-height:37px;padding-top:10px;}
+.service-icon{width:41px;height:42px; vertical-align:middle;}
+.service-icon-1{background-position:0px -93px;}
+.service-icon-2{background-position:-51px -93px;}
+.service-icon-3{background-position:-97px -93px;}
+.service-icon-4{background-position:-160px -93px;}
+.service-icon-5{background-position:-225px -93px;}
+.service-icon-1:hover{background-position:0px -139px;}
+.service-icon-2:hover{background-position:-51px -139px;}
+.service-icon-3:hover{background-position:-97px -138px;}
+.service-icon-4:hover{background-position:-160px -139px;}
+.service-icon-5:hover{background-position:-225px -143px;}
+.problem-list{padding:25px 0 25px 25px;width:279px;float:left;}
+.problem-list a{color:#215f88;line-height:35px;font-size:14px;width:254px;height:35px; overflow:hidden;display:inline-block;}
+.problem-list a:hover em{ text-decoration:underline;}
+
+.problem-list a span{color:#c4c9cc;margin-right:7px;}
+.common-problem{padding:10px 10px }
+.block{width:468px;margin:10px 10px;height:auto;float:left;background:#f7f8fd; position:relative;}
+.block .block-title{margin:0 23px;border-bottom:1px solid #eceef6;}
+.tri-icon{position:absolute;top:0px;left:0px;background-position:0px -16px;width:7px;height:8px;}
+.block .block-title h3{color:#333;font-size:18px;font-weight:normal;padding:8px 0px 15px;}
+.blcok-content{height:110px;padding:26px 0 0 22px;position:relative;}
+.blcok-content a{width:135px;color:#215f88;display:inline-block;margin-bottom:18px;font-size:14px;}
+.blcok-content a:hover{ text-decoration:underline;}
+.under-icon{width:56px;height:78px;position:absolute;right:0px;bottom:0px;}
+.under-icon-1{background-position:-28px 0px;}
+.under-icon-2{background-position:-108px 0px;}
+.under-icon-3{background-position:-190px 0px;}
+.under-icon-4{background-position:-275px 0px;}
+.contain{width:1000px;background:#fff url(../img/changeimg/lnav-bg.png) repeat-y;margin:0 auto;}
+/*左侧导航*/
+.lnav{width:184px;padding-bottom:20px;}
+.lnav dl{margin:0 11px;line-height:30px;}
+.lnav dl dt{border-bottom:1px solid #e7ecf2;color:#333;margin-top:15px;font-size:16px;padding-bottom:10px;padding-left:20px;margin-bottom:10px;}
+.lnav dl dd{font-size:14px;line-height:40px;}
+.lnav dl dd a{width:143px;padding-left:20px;color:#737373;display:inline-block;}
+.lnav dl dd a:hover{background:#f3f6f8}
+.lnav dl dd a span{display:inline-block;margin-right:20px;}
+.lnav dl dd a.a{color:#fff;background:#33b796;border-radius:3px;}
+/*右侧*/
+.read{background:#fff;width:814px;}
+.read h3{margin:0 20px;font-size:18px;border-bottom:1px solid #e8e9f0;line-height:64px;font-weight:normal;}
+.read-list{margin:0 20px;}
+.read-list li{border-bottom:1px dashed #f1f4f8;line-height:48px;font-size:14px;}
+.read-list li a span{color:#aaa;}
+.read-list li a i{width:4px;height:4px;background:#c4c9cc;display:inline-block;margin-right:10px; vertical-align:middle;}
+
+.read-list li a:hover{color:#33b796;}
+.read-list li a:hover span{color:#33b796;}
+.read-list li a:hover i{background:#33b796;}
+.read-list li a.a {color:#33b796;}
+.read-list li a.a span{color:#33b796;}
+.read-list li a.a i{background:#33b796;}
+.read-list-con{background:#f0f4f8;padding:30px;line-height:28px;color:#666666;border-radius:3px;position:relative;}
+.ti-icon{width:11px;height:6px;background-position:0px -46px;position:absolute;top:-5px;left:35px;}
+.cust-icon{width:18px;height:17px;background-position:0px -55px;margin-right:10px; vertical-align:middle}
+
+.cust-service{padding-top:40px;font-size:14px;padding-bottom:20px;}
+.cust-service em{color:#77cfb9;}
+.list-table-new{width:715px;border:1px solid #d9dadc;border-bottom:none;border-right:none;text-align:center;}
+.list-table-new th{background:#e8e9ea;border-bottom:1px solid #d9dadc;border-right:1px solid #d9dadc;}
+.list-table-new td{border-bottom:1px solid #d9dadc;border-right:1px solid #d9dadc;}
+
+
+
+
+/*统计样式*/
+.data-sp1{background-position: -100px -48px;width:20px;height:20px;margin-left:10px; vertical-align: text-bottom}
+.pr30{padding-right:30px;}
+.pt35{padding-top:35px !important;}
+.sta-banner{width:100%;height:100px;background:url(../img/changeimg/statistics.png) repeat-x;}
+.sta-banner-title {padding-top:34px;}
+.sta-banner-title a{display:inline-block;border-radius:3px;padding:10px 20px;background:#fff;color:#33b797;font-size:14px;}
+.down-icon{width:11px;height:9px;background-position:0px -31px;margin-right:5px;}
+.sta-banner-title h3{font-size:26px;color:#fff;font-weight:600;}
+.sta-title{text-align:center;font-size:16px;color:#666;padding:40px 0px;}
+.data{padding-bottom:40px;}
+.data dl{width:200px;float:left;text-align:center;}
+.data dl.spe{width:175px;}
+.data dl.spe-1{width:170px;}
+.data dl dt{font-size:24px;color:#ee751b;border-right:1px solid #cfd5d9;}
+.data dl dd{font-size:14px;color:#888;padding-top:10px;}
+.finance{padding:0 25px 30px 25px;background:#fff;margin:15px 0px;}
+.finance-nav{border-bottom:2px solid #e7ebee;height:84px;}
+.finance-nav li a{float:left;color:#888;padding:30px 0px;font-size:18px;width:72px;margin:0 20px 0 0;}
+.finance-nav li a:hover{color:#333;}
+.finance-nav li a.a{color:#33b797 ;border-bottom:2px solid #33b797;}
+.finance-nav span{color:#aaa;font-size:12px !important;padding-right:17px;}
+.risk{padding:0 0px 10px 0px;background:#fff;margin:15px 0px 0px;}
+.risk-title{border-bottom:1px solid #e7edf1;padding:20px 0px;}
+.risk-title h3{font-weight:normal;padding-left:25px;}
+.risk-content{margin:64px 100px 70px;}
+.risk-content-left{width:400px;float:left;}
+.loan-icon-1{width:92px;height:80px;background-position:-277px -90px;font-style:normal;float:left;}
+.risk-content-left dt{padding-bottom:10px;}
+.loan-icon-1 p{color:#33b797;font-size:14px;padding:20px 10px 0 0px;text-align:center;font-weight:600;}
+.risk-content-left dt span{font-size:24px;color:#33b797;display:inline-block;padding:22px 0 0 20px;}
+.risk-content-left dd{font-size:14px;padding-top:20px;color:#888;}
+.risk-content-left dd em{color:#33b797;}
+.deposit-1{background:#fff;padding:0 25px 20px;}
+.deposit-1-title{background:#f3f7fa;padding:17px 0px;}
+.deposit-1-title h3{color:#666;font-size:16px;padding-left:22px;}
+.deposit-1-title span{color:#aaa !important;padding-top:3px;padding-right:15px;}
+.deposit-1-left{width:470px;margin-bottom:40px;}
+.sta-title i:hover div.sta-exp{display:block;}
+.sta-exp{position:absolute;left:400px;top:71px;background:#f8f9fa;border-radius:3px;border:1px solid #eeeeee;display:none;}
+.sta-exp-1{left:53px;top:55px;}
+.san{position:absolute;top:-20px;left:145px;}
+.san-1{top:-17px;}
+.sta-exp ul{display:inline-block;font-style: normal;font-size:12px;line-height:20px; text-align: left;width: 400px;padding:10px 10px;}

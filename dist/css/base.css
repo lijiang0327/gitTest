@@ -1,0 +1,7 @@
+.test {
+	width: 200px;
+	height: 200px;	
+	background-color: #fff;
+	-webkit-animation-delay: 100;
+	        animation-delay: 100;
+}
